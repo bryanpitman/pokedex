@@ -1,0 +1,8 @@
+.pokecard {
+    display: flex;
+    flex-direction: column;
+}
+
+.pokedex {
+    display: flex;
+}

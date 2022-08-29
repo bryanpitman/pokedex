@@ -1,12 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import Pokedex from "./Pokedex";
 
+
+/** render a single Pokedex component */
 function App() {
   return (
     <div className="Pokemon">
-        <div>
-        This should just render a single Pokedex component.
-        </div>
+      <div>
+        <Pokedex />
+      </div>
     </div>
   );
 }

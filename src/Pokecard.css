@@ -1,0 +1,15 @@
+.Pokecard {
+    border: 1px solid #0d4255;
+    border-radius: 5px;
+    margin: 20px 20%;
+    padding: 20px;
+    background-color: rgba(250, 235, 215, 0.451);
+}
+
+.Pokemon-name,
+.Pokemon-type,
+.Pokemon-exp {
+    color: rgb(37, 27, 27);
+    display: inline-block;
+    margin: auto;
+}
